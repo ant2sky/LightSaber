@@ -1,4 +1,5 @@
 LightSaber
 ==========
 
-Light Saber for atmega328
+This project is Light Saber for atmega328.
+
